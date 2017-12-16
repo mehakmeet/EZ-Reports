@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "420128597421",
+    "firebase_url": "https://ez-reports.firebaseio.com",
+    "project_id": "ez-reports",
+    "storage_bucket": "ez-reports.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420128597421:android:c8b0d5bb98039b76",
+        "android_client_info": {
+          "package_name": "example.mehakmeet.gdg_round2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420128597421-1nsvgfvkh6euoe3rg8riklhgfnp36u8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.mehakmeet.gdg_round2",
+            "certificate_hash": "c97a45f99a09b2e4232bd945e34218e495142d39"
+          }
+        },
+        {
+          "client_id": "420128597421-ifjle4c6r9dtsecisj47uu8cjhfhgfl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn8-eAQi_wkYJiexxu0KV-xjphQ0eIS6U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420128597421-ifjle4c6r9dtsecisj47uu8cjhfhgfl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
